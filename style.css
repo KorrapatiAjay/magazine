@@ -1,0 +1,93 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+.head{
+   float: left;
+   
+}
+.list a{
+   float: right;
+   text-decoration: none;
+   margin: 10px;
+   font-weight: bold;
+   color: black;
+}
+ .list a:hover{
+   color: white;
+   font-size: 20px;
+}
+a{
+   text-decoration: none;
+   font-weight: bold;
+   color: rgb(74, 12, 69);
+}
+a:hover{
+   color: rgba(242, 228, 238, 0.693);
+   font-size: 25px;
+}
+.chi{
+   clear: both;
+}
+.title{
+   background-color: rgb(112, 55, 93);
+   font-size: large;
+   padding: 0px;
+}
+.payra{
+   font-size:small;
+   border: 3px solid black;
+   width: 900px;
+   float: left;
+   height: 670px;
+   
+}
+.pass{
+   font-weight: bold;
+   
+}
+.body{
+   background-color: rgb(151, 119, 149);
+   border: 4px solid black;
+   
+}
+.ajay{
+   color: rgb(36, 43, 46);
+}
+.move{
+   float: left;
+}
+.clear{
+   clear: both;
+}
+footer{
+   clear: both;
+   background-color: rgba(48, 83, 94, 0.479);
+   font-weight: bold;
+   font-size: larger;
+   height: 30px;
+   color: aquamarine;
+}
+aside{
+   background-color: rgb(117, 50, 104);
+   width: 295px;
+   border: 3px solid rgb(22, 16, 16);
+   float: right;
+   height: 670px;
+   
+}
+.isd{
+   margin-left: 40px;
+}
+li{
+   list-style-type: square;
+}
+
+
+
+    
+    
+
+    
+
